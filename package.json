@@ -1,0 +1,19 @@
+{
+  "name": "Ngan-blog",
+  "version": "0.0.1",
+  "description": "Static blog for Bao Ngan",
+  "main": "index.js",
+  "authors": {
+    "name": "saltmurai",
+    "email": "phamsang6260@gmail.com"
+  },
+  "repository": "git@github.com:saltmurai/vue-blog.git/Ngan-blog",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
